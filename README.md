@@ -66,3 +66,5 @@ Feature names are present in 'UCI_HAR_dataset/features.txt'<br><br>
 ## Data-Points Distribution
 * 30 test-subjects data is randomly split to 70%(21) train and 30%(7) test data.
 * Each data-point corresponds one of the 6 Activities.
+## Data Source
+https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
