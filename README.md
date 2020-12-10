@@ -68,4 +68,4 @@ Feature names are present in 'UCI_HAR_dataset/features.txt'<br><br>
 * Each data-point corresponds one of the 6 Activities.
 ## Data Source
 https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-### The Info Regarding The packages and Acuuracy is in the code file itself.
+### The Info Regarding The packages and Accuracy is in the code file itself.
